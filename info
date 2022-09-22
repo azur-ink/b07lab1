@@ -1,1 +1,2 @@
-
+//CSCB07 Lab1
+//Class Polynomial with field "coefficients" and method "add", "evaluate", "hasRoot"

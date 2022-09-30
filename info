@@ -1,2 +1,13 @@
-//CSCB07 Lab1
-//Class Polynomial with field "coefficients" and method "add", "evaluate", "hasRoot"
+/*CSCB07 Lab2
+  Updated Class Polynomial
+    field coefficients : double[]
+    field exponents : int[]
+    method Polynomial()
+    method Polynomial(double[], int[])
+    method Polynomial(File)
+    method add(Polynomial) : Polynomial
+    method evaluate(double) : double
+    method hasRoot(double) : boolean
+    method multiply(Polynomial) : Polynomial
+    method saveToFile(String) : void
+    method printPolynomial() :void */
